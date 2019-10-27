@@ -17,12 +17,12 @@ const IndexPage = () => (
 
     <p> Sou do Rio Grande do Norte e atualmente moro em Porto Alegre-RS onde faço
       Mestrado em Computação na UFRGS. Tenho interesse principalmente na área de
-      Aprendizado por Reforço, mas tudo que é relacionado com desenvolvimento me desperta a curisodade.
+      Aprendizado por Reforço, mas tudo que é relacionado com desenvolvimento me desperta a curiosidade.
       </p>
 
     <p>
       Mais abaixo falo um pouco sobre minhas experiências acadêmicas e profissionais.
-      Deixo também meu email e minhas redes sociais, fique à vontade para entrar em contato!.
+      Deixo também meu email e minhas redes sociais, fique à vontade para entrar em contato!
 
     </p>
     <p>
