@@ -7,8 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-
+    <SEO title="Francisco Bento" />
     <p>
       Me chamo Francisco Bento, sou desenvolvedor de software apaixonado
       pelo que faço, curioso e estou sempre buscando aprender algo.
