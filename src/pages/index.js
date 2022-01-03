@@ -1,9 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
-
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+
 
 const IndexPage = () => (
   <Layout>
@@ -18,7 +16,7 @@ const IndexPage = () => (
     <p> Sou do Rio Grande do Norte e atualmente moro em Porto Alegre-RS onde faço
       Mestrado em Computação na UFRGS. Tenho interesse principalmente na área de
       Aprendizado por Reforço, mas tudo que é relacionado com desenvolvimento me desperta a curiosidade.
-      </p>
+    </p>
 
     <p>
       Mais abaixo falo um pouco sobre minhas experiências acadêmicas e profissionais.
@@ -26,17 +24,17 @@ const IndexPage = () => (
 
     </p>
     <p>
-      <a target="_blank" href="mailto:franciscobdsjunior@gmail.com">email</a>, <a target="_blank" href="https://github.com/chicobentojr">Github</a>
-      , <a target="_blank" href="https://www.linkedin.com/in/chicobentojr/">LinkedIn</a>, <a target="_blank" href="http://lattes.cnpq.br/5951530578146263">Lattes</a>
-      , <a target="_blank" href="https://telegram.me/chicobentojr">Telegram</a>, <a target="_blank" href="https://www.facebook.com/chicobentojr">Facebook</a>
-      , <a target="_blank" href="https://twitter.com/chicobentojr">Twitter</a>, <a target="_blank" href="https://filmow.com/usuario/chicobentojr">Filmow</a>
-      , <a target="_blank" href="https://www.skoob.com.br/usuario/871928-chico">Skoob</a>
-      , <a target="_blank" href="https://open.spotify.com/user/12151071373?si=VRtPJ-zoTeSvc6jJ_JDCng">Spotify</a> e <a target="_blank" href="https://last.fm/user/chicobentojr">Last.fm</a>.
+      <a target="_blank" rel="noopener noreferrer" href="mailto:franciscobdsjunior@gmail.com">email</a>, <a target="_blank" rel="noopener noreferrer" href="https://github.com/chicobentojr">Github</a>
+      , <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/chicobentojr/">LinkedIn</a>, <a target="_blank" rel="noopener noreferrer" href="http://lattes.cnpq.br/5951530578146263">Lattes</a>
+      , <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/chicobentojr">Telegram</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/chicobentojr">Facebook</a>
+      , <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/chicobentojr">Twitter</a>, <a target="_blank" rel="noopener noreferrer" href="https://filmow.com/usuario/chicobentojr">Filmow</a>
+      , <a target="_blank" rel="noopener noreferrer" href="https://www.skoob.com.br/usuario/871928-chico">Skoob</a>
+      , <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/12151071373?si=VRtPJ-zoTeSvc6jJ_JDCng">Spotify</a> e <a target="_blank" rel="noopener noreferrer" href="https://last.fm/user/chicobentojr">Last.fm</a>.
     </p>
 
     <h2>Educação</h2>
 
-    <h4>2020 (Previsto) Mestre em Computação, Universidade Federal do Rio Grande do Sul (UFRGS)</h4>
+    <h4>2022 (Previsto) Mestre em Computação, Universidade Federal do Rio Grande do Sul (UFRGS)</h4>
     <ul>
       <li>Participação num projeto da Petrobras para desenvolvimento de uma plataforma e busca de dados heterogêneos da área de Geologia.</li>
       <li>Pesquisa na área de Aprendizado por Reforço com foco em políticas compostas.</li>
